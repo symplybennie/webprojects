@@ -1,2 +1,2 @@
 # webprojects
-PERSONAL LEARNING PROJECTS WITH HTML, CSS AND JAVASCRIPT
+projects using html, css and javascript
